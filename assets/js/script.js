@@ -7,7 +7,7 @@ textKamu.style.color = 'blue';
 textBot.style.color = 'blue';
 
 function check(user) {
-  var com = Math.floor(Math.random() * (4 - 1 + 1) + 1);
+  var com = Math.floor(Math.random() * (3 - 1 + 1) + 1);
   var warna;
   switch (com) {
     case 1:
